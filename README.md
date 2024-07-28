@@ -1,4 +1,4 @@
-```markdown
+
 # DigitalTimer
 
 DigitalTimer是一个由wxPython框架编写的电子时钟，旨在促进人们的工作与学习。这个应用程序提供了多种功能，以帮助用户更高效地管理时间。
@@ -78,4 +78,4 @@ cd DigitalTimer/bin
 ## 许可证
 
 本项目基于MIT许可证开源。详细信息请参阅 [LICENSE](LICENSE) 文件。
-```
+
