@@ -50,7 +50,7 @@ cd DigitalTimer/bin
 3. 运行应用程序：
 
     ```bash
-    python main.py
+    python DigitalTimer.py
     ```
 
 ## 使用指南
